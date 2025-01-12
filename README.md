@@ -9,10 +9,9 @@
 ( AWS | React JS | Typescript | Javascript ) 🚀
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
 - 🌐 Entusiasta e Autodidata em Desenvolvimento.
-
+<img src="./gifs/_.gif">
 <div align="left">
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioxavierz&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
-   <img src="./gifs/_.gif">
 </div>
 
 ## Tecnologias que eu uso no meu dia
