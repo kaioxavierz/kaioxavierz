@@ -6,7 +6,7 @@
 
 
 ## Me chamo Kaio Xavier! Muito Prazer!
-( AWS | React JS | Typescript | Javascript ) 🚀
+( React JS | Typescript | Javascript ) 🚀
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
 - 🌐 Entusiasta e Autodidata em Desenvolvimento.
 
