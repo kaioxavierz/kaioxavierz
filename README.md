@@ -10,10 +10,6 @@
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
 - 🌐 Entusiasta e Autodidata em Desenvolvimento.
 
-<div align="left" display="flex">
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioxavierz&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
-   <img src="./gifs/Dark Souls Bonfire GIF - Dark Souls Bonfire Rest - Discover & Share GIFs.gif">
-</div>
 
 ## Tecnologias que eu uso no meu dia
 
