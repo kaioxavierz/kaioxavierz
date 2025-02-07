@@ -1,9 +1,5 @@
 <h1>Hi There! 👋</h1>
 
-[![Gmail](https://img.shields.io/badge/dm.xavierkaio@gmail.com-D14836?style=for-the-badge&logo=&logoColor=white)](mailto:dm.xavierkaio@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaioxavierz)
-
 
 ## Me chamo Kaio Xavier! Muito Prazer!
 ( React JS | Typescript | Javascript ) 🚀
