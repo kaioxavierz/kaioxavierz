@@ -2,7 +2,7 @@
 
 
 ## Me chamo Kaio Xavier! Muito Prazer!
-( React JS | Typescript | Javascript ) 🚀
+( React JS | Typescript | NodeJs | Python ) 🚀
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas.
 - 🌐 Entusiasta e Autodidata em Desenvolvimento.
 
